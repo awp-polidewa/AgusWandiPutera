@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,tailwind,solidity,figma&perline=7)](https://skillicons.dev)
 
-### Connect with me
+#### Connect with me
 
 ![https://wa.me/62887436943503](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
 
