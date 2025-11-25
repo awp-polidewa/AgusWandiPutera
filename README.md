@@ -1,2 +1,7 @@
-# AgusWandiPutera
-My Github Profile
+### Hello Coders I'm AgusWandiPutera 👋
+
+🔥 Currently learning:
+
+- HTML
+- CSS
+- JS
